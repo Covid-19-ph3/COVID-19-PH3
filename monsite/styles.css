@@ -1,0 +1,66 @@
+h1 {
+	font-size: 100px;
+	text-transform: uppercase;
+	text-align: center;
+	color: #FF3660;
+	font-family: helvetic, sans-serif;
+}
+
+body {
+	background-image: url(img/memphis-mini.png);
+}
+
+h2 {
+	font-size: 30px;
+	text-align: center;
+}
+
+h3 {
+	font-size: 25px;
+	text-align: center;
+}
+
+h4{
+	text-align: center;
+	color: #fff;
+}
+
+h5 {
+	font-size: 25px;
+	text-align: center;
+}
+
+h6{
+	font-size: 20px;
+}
+
+i{
+	font-size: 35px;
+	color: #f00;
+
+}
+	
+
+button{
+	text-align: center;
+	padding: 15px 25px;
+	font-size: 24px;
+	border-radius: 12px;
+	text-transform: uppercase;
+	color: #fff;
+	background-color: #3498db;
+	border: none;
+	cursor: pointer;
+	box-shadow: 0 9px #2980b9;
+	outline: none;
+}
+
+button:hover{
+	transform: translateY(3px);
+	box-shadow: 0 6px #2980b9;
+}
+
+button:active{
+	transform: translateY(7px);
+	box-shadow: 0 2px #2980b9;
+}
